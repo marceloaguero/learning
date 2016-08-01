@@ -1,2 +1,8 @@
+<<<<<<<
 To simulate a hotfix.
 Now in master.
+
+=======
+Next file to test.
+
+>>>>>>>
