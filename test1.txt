@@ -1,3 +1,5 @@
 Development branch.
 Changed in development.
-Hotfix2
+Hotfix2.
+
+Test merge tool from master.
